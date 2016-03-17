@@ -208,6 +208,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Python
 
+- [Eve](http://python-eve.org) - Python REST API framework designed for human beings.
 - [Flask](http://flask.pocoo.org/) - Python framework for microservices based on Werkzeug and Jinja 2.
 - [Nameko](https://github.com/onefinestay/nameko) - Python framework for building microservices.
 - [Tornado](http://www.tornadoweb.org/) - Web framework and asynchronous networking library.
